@@ -4,10 +4,14 @@ Takım Unity u-133
 Ürün İle İlgili Bilgiler
 
 Takım Elemanları
+Emin Eren Kozak: Scrum Master / Developer
 
-Emin Eren Kozak: Scrum Master / Developer                                                                                                                      Veysel Reşit Çaçan: Product Owner / Developer 
+Veysel Reşit Çaçan: Product Owner / Developer 
+
 Melike Tiryaki: Developer 
+
 Irmak Akar: Developer 
+
 Deniz Koç: Developer 
 
 
