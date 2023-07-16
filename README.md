@@ -48,7 +48,8 @@ Daily Scrum: Daily Scrum toplantılarının bir kısmı slack üzerinden sesli o
 
 
 Sprint board update: Sprint board screenshotları:
-![s2](https://github.com/U-133/ProjectDocumentation/assets/109238974/1526c60d-3ffb-4bdd-b768-86bb7afc99cc)
+![bl](https://github.com/U-133/Project-repo/assets/109238974/0510f092-d45d-4842-9b92-bdef143fa835)
+
 
 
 
@@ -71,9 +72,7 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 300 puan
 Daily Scrum: Daily Scrum toplntılarının bir kısmı slack üzerinden sesli olarak bir kısmı Whatsapp ve Discord üzerinden yazılı olarak yapılmıştır. Daily Scrum toplantısı örneği jpeg veya pdf olarak Readme'de tarafımızdan paylaşılmaktadır: [s1.pdf](https://github.com/U-133/ProjectDocumentation/files/12063336/s1.pdf)
 
 Sprint board update: Sprint board screenshotları:
-
-![bl](https://github.com/U-133/Project-repo/assets/109238974/0510f092-d45d-4842-9b92-bdef143fa835)
-
+![s2](https://github.com/U-133/ProjectDocumentation/assets/109238974/1526c60d-3ffb-4bdd-b768-86bb7afc99cc)
 
 Sprint Review: Önceki sprintte belirlenen görevler gerçekleştirildi. Alınan tüm kararlar sonuçlandırıldı.
 
