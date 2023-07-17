@@ -1,7 +1,11 @@
 Takım İsmi
+
 Takım Unity u-133
 
+
+
 Ürün İle İlgili Bilgiler
+
 
 Takım Elemanları
 
@@ -15,18 +19,28 @@ Irmak Akar: Developer
 
 Deniz Koç: Aktif Olmayan Üye
 
+
 Ürün İsmi
+
 The Sacrificial Knight Triumph and Tragedy
 
+
 Ürün Açıklaması
+
 Oyunumuz 2D Platformer türünde bir PC oyunudur. Oyun 4 farklı sahneden oluşmaktadır. Giriş sahnesi, Bitiş sahnesi ve İki farklı seviyesi bulunmaktadır. Karakterimizin amacı özel güçlerini kullanarak tüm düşmanları yenmek ve seviyeleri tamamlamaktır.
 
+
 Hedef Kitle
+
 *2D oyun severler
+
 *Platformer tarzda oyunları sevenler
+
 *13 yaş üzeri kullanıcılar
 
+
 Oyun Hikayesi (TL:DR:)
+
 Piece 1: The Knight's Motive
 
 In a world on the edge of shattering, where the looming threat of a fearsome creature known as the Deathbringer weighed heavily upon humanity, there lived a valiant knight named Leon.
@@ -82,6 +96,30 @@ His name became synonymous with courage and sacrifice, forever etching his legac
 The world mourned the loss of their savior, but they understood the magnitude of his sacrifice. 
 And as they looked upon the radiant sunrise, they whispered his name with reverence, knowing that their future was built upon the ashes of his selflessness.
 Leon, the knight who condemned himself to darkness, had become the beacon of hope that guided humanity towards a brighter tomorrow.
+
+Ürün Görselleri 
+
+
+![1](https://github.com/U-133/ProjectDocumentation/assets/109238974/b25f7f5d-46a9-484a-8124-37c1bd5c8ae8)
+
+![2](https://github.com/U-133/ProjectDocumentation/assets/109238974/163e8c1f-9606-44ba-9749-91022fef0c10)
+
+![3](https://github.com/U-133/ProjectDocumentation/assets/109238974/fc3ae436-4e62-4a04-92a5-43f061f19e21)
+
+![4](https://github.com/U-133/ProjectDocumentation/assets/109238974/25f93f44-a4ad-4576-b073-8ea4abb3898b)
+
+![5](https://github.com/U-133/ProjectDocumentation/assets/109238974/e922476c-34e0-4e9a-9596-0b59368dcf3b)
+
+![6](https://github.com/U-133/ProjectDocumentation/assets/109238974/6be973d2-6f96-4822-9c18-45e760bf2f68)
+
+![7](https://github.com/U-133/ProjectDocumentation/assets/109238974/f0a44e80-1554-4758-b7d2-aab3f1fffb29)
+
+![9](https://github.com/U-133/ProjectDocumentation/assets/109238974/17a6de6d-7d9f-4973-8a36-a1d24e3d4cb5)
+
+![10](https://github.com/U-133/ProjectDocumentation/assets/109238974/e9a5d65b-3c26-4295-9424-7e38737dbe75)
+
+![12](https://github.com/U-133/ProjectDocumentation/assets/109238974/a014f68f-ec5c-422d-893a-bb76f6f4c725)
+
 
 Sprint 1
 
